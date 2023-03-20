@@ -14,7 +14,7 @@
                 Console.WriteLine("2. Wine Bottle");
                 Console.WriteLine("3. Pizza");
                 Console.WriteLine("4. Tell Knock Knock Joke");
-                Console.WriteLine();
+                Console.WriteLine(); 
 
                 Console.WriteLine("Choose what program to run (1-3): ");
                 string choice = Console.ReadLine();
